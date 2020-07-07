@@ -1,0 +1,22 @@
+{
+    "name": "PWA - Portal de Documentos",
+    "short_name": "PWA - Portal",
+    "lang": "pt-BR",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#892890",
+    "icons": [
+      {
+        "src": "./img/icon.png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "./img/icon.png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "./img/icon.png",
+        "sizes": "192x192"
+      }
+    ]
+  }
