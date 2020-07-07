@@ -2,7 +2,7 @@
     "name": "PWA - Portal de Documentos",
     "short_name": "PWA - Portal",
     "lang": "pt-BR",
-    "start_url": "/",
+    "start_url": "https://cvpassarelli.github.io/pwa/",
     "display": "standalone",
     "theme_color": "#892890",
     "icons": [
